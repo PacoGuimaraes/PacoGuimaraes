@@ -23,6 +23,6 @@
 </div>
 
 <br/>
-Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa caminhada para me tornar um programador Full Stack.
+
 
 <br/>
